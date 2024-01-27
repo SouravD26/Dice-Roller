@@ -1,12 +1,11 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
+# Name:        Sourav Dutta
 # Purpose:
 #
 # Author:      DELL PC
 #
-# Created:     02-12-2023
+# Created:     04-01-2024
 # Copyright:   (c) DELL PC 2023
-# Licence:     <your licence>
 #------------------------------------------------------------------------------
 
 import random
